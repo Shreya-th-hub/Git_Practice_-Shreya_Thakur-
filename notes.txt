@@ -1,0 +1,1 @@
+Git is useful for version control, collaboration, and tracking changes in projects.
